@@ -1,0 +1,73 @@
+﻿  Map.cpp
+C:\Users\pinar\Desktop\Projet_C++\CasseBrick\Build\Map.cpp(16,19): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\pinar\Desktop\Projet_C++\CasseBrick\Build\Map.cpp(33,53): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\CasseBrick\Build\Map.cpp(34,47): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\CasseBrick\Build\Map.cpp(178,32): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\CasseBrick\Build\Map.cpp(179,32): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\CasseBrick\Build\Map.cpp(214,58): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\CasseBrick\Build\Map.cpp(221,48): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\CasseBrick\Build\Map.cpp(236,48): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\CasseBrick\Build\Map.cpp(259,70): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\CasseBrick\Build\Map.cpp(285,11): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\pinar\Desktop\Projet_C++\CasseBrick\Build\Map.cpp(286,11): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\pinar\Desktop\Projet_C++\CasseBrick\Build\Map.cpp(287,38): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\pinar\Desktop\Projet_C++\CasseBrick\Build\Map.cpp(288,38): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  main.cpp
+  Génération de code en cours...
+  CasseBrique.vcxproj -> C:\Users\pinar\Desktop\Projet_C++\CasseBrick\Build\Debug\CasseBrique.exe

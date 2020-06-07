@@ -1,0 +1,9 @@
+﻿  Checking Build System
+  CMake is re-running because C:/Users/pinar/Desktop/Projet_C++/CasseBrick/Build/CMakeFiles/generate.stamp is out-of-date.
+    the file 'C:/Users/pinar/Desktop/Projet_C++/CasseBrick/CMakeLists.txt'
+    is newer than 'C:/Users/pinar/Desktop/Projet_C++/CasseBrick/Build/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Found SFML 2.5.1 in C:/Users/pinar/Desktop/Projet_C++/CasseBrick/SFML-2.5.1/lib/cmake/SFML
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: C:/Users/pinar/Desktop/Projet_C++/CasseBrick/Build
